@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kanishka R</h1>
 <h3 align="center">Curious Python Developer</h3>
-<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/uHLP3KKkGLkAAAAM/city.gif](https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/Right_Side.gif)">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/Right_Side.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanish13&label=Profile%20views&color=0e75b6&style=flat" alt="kanish13" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanish13" alt="kanish13" /></a> </p>

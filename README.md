@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanish13" alt="kanish13" /></a> </p>
 
-- 💬 Ask me about **Python,Django,Java**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **radhakanish@gmail.com**
 
